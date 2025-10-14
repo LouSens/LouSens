@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a developer passionate about building intellig
 
 
 <p align="center">
-  <img src="./.github/pacman/pacman.svg" alt="Pacman Commit Game" width="600"/>
+  <img src="./.github/pacman/pacman.gif" alt="Pacman Commit Game" width="600"/>
 </p>
 
 ---
