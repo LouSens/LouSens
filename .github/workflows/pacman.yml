@@ -1,29 +1,36 @@
-name: Pacman Animation
+name: Generate Pacman SVG
 
 on:
+  schedule:
+    - cron: '0 * * * *' # runs every hour, adjust as needed
   push:
     branches:
-      - main
-  workflow_dispatch:
+      - main # or your default branch
 
 jobs:
-  generate-pacman-svg:
+  build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout Repo
-        uses: actions/checkout@v4
+      - name: Check out the repository
+        uses: actions/checkout@v2
 
-      - name: Generate Pacman SVG
-        run: |
-          mkdir -p .github/pacman
-          cat > .github/pacman/pacman.svg <<'EOF'
-<svg width="120" height="120" ...> ... </svg>
-EOF
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
 
-      - name: Commit and Push Pacman SVG
+      - name: Install dependencies
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          pip install svgwrite
+
+      - name: Run script to generate Pacman SVG
+        run: python .github/scripts/generate_pacman_svg.py
+
+      - name: Commit and push generated SVG
+        run: |
+          git config --local user.email "github-actions@github.com"
+          git config --local user.name "GitHub Action"
           git add .github/pacman/pacman.svg
-          git commit -m "Update Pacman SVG animation" || echo "No changes to commit"
+          git commit -m "Generate Pacman SVG" || echo "No changes to commit"
           git push
