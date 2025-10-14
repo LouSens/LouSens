@@ -6,7 +6,7 @@
     </td>
     <td>
       <h1>Welcome to My Profile!</h1>
-      <p>I'm David Kurniawan, a developer passionate about automation, AI, and open source. Below you'll find a bit about me, my skills, and ways to connect.</p>
+      <p>I'm David Kurniawan, a developer passionate about automation, AI, and open source. I've included below a section about myself, my skills, and ways to connect.</p>
     </td>
   </tr>
 </table>
@@ -28,7 +28,7 @@
 -->
 - 🎓 **Currently Studying:** Artificial Intelligence at Xiamen University Malaysia
 - 💡 **Interests:** AI, Machine Learning, Web Development, and creative automation.
-- 🚀 **Goals:** To leverage technology to build impactful and user-friendly applications, and to continuously learn and grow as a developer.
+- 🚀 **Goals:** To leverage technology to build impactful and user-friendly applications, and to learn and grow as a developer continuously.
 
 ---
 
@@ -76,4 +76,3 @@ I'm always open to connecting with fellow developers and enthusiasts! Feel free 
 
 ---
 
-⭐ If you like my profile, consider starring this repository!
