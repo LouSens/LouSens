@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm David Kurniawan! 👋
 
 Welcome to my GitHub profile! I'm a developer passionate about building intelligent and creative solutions. Below you'll find a bit about me, my skills, and ways to connect.
 
@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a developer passionate about building intellig
 
 
 <p align="center">
-  <img src="./.github/pacman/pacman.gif" alt="Pacman Commit Game" width="600"/>
+  <img src="https://raw.githubusercontent.com/LouSens/LouSens/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph"/>
 </p>
 
 ---
@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a developer passionate about building intellig
 <!-- 
   INSTRUCTIONS: Replace the bracketed information with your own details.
 -->
-- 🎓 **Currently Studying:** [Your Major/Field, e.g., Computer Science] at [Your University]
+- 🎓 **Currently Studying:** Artificial Intelligence at Xiamen University Malaysia
 - 💡 **Interests:** AI, Machine Learning, Web Development, and creative automation.
 - 🚀 **Goals:** To leverage technology to build impactful and user-friendly applications, and to continuously learn and grow as a developer.
 
