@@ -6,7 +6,9 @@ Welcome to my GitHub profile! I'm a developer passionate about building intellig
 
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LouSens/LouSens/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LouSens/LouSens/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LouSens/LouSens/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LouSens/LouSens/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
