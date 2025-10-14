@@ -1,0 +1,29 @@
+name: Pacman Animation
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  generate-pacman-svg:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Generate Pacman SVG
+        run: |
+          mkdir -p .github/pacman
+          cat > .github/pacman/pacman.svg <<'EOF'
+<svg width="120" height="120" ...> ... </svg>
+EOF
+
+      - name: Commit and Push Pacman SVG
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .github/pacman/pacman.svg
+          git commit -m "Update Pacman SVG animation" || echo "No changes to commit"
+          git push
