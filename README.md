@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a developer passionate about building intellig
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3ZqZzZjZ2Z6c2ZqZ2hlc3BicmJ3a2ZqM3ZkZmZ3b3FqZ2V5c3ZqM3ZoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abKhOpuRnNnUf9C/giphy.gif" alt="Live Pac-Man Demo" width="600"/>
+  <img src="./.github/pacman/pacman.svg" alt="Pacman animation" width="120" />
 </p>
 
 ---
