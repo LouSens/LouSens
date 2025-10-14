@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a developer passionate about building intellig
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LouSens/LouSens/.github/workflows/pacman-contribution-graph.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/LouSens/LouSens/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph"/>
 </p>
 
 ---
