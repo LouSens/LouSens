@@ -63,11 +63,8 @@ I'm always open to connecting with fellow developers and enthusiasts! Feel free 
   INSTRUCTIONS: Replace the URLs with your actual social media profile links.
 -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile-link" target="blank">
+  <a href="https://www.linkedin.com/in/davidkurniawan13/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin" height="30" width="40" />
-  </a>
-  <a href="https://x.com/your-username" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your-x" height="30" width="40" />
   </a>
   <a href="https://instagram.com/your-username" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your-instagram" height="30" width="40" />
