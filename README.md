@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=David%20Kurniawan&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Deep%20Learning%20%7C%20NLP&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Passionate+about+Deep+Learning+%F0%9F%A7%A0;NLP+%26+Automation+Enthusiast+%F0%9F%9A%80;BEng+AI+%40+Xiamen+University+Malaysia+%F0%9F%8E%93" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Passionate+about+Deep+Learning+%F0%9F%A7%A0;NLP+%26+Automation+Enthusiast+%F0%9F%9A%80;BEng+AI+%40+Xiamen+University+Malaysia+%F0%9F%8E%93;Competing+%40+Antigravity+Protocol+2026+%E2%9A%A1" alt="Typing SVG" />
 
 <br/>
 
@@ -25,9 +25,11 @@ class DavidKurniawan:
         self.name        = "David Kurniawan"
         self.degree      = "BEng Artificial Intelligence"
         self.university  = "Xiamen University Malaysia"
-        self.interests   = ["Deep Learning", "NLP", "Automation", "Web Development"]
+        self.interests   = ["Deep Learning", "NLP", "Automation", "Full-Stack AI"]
+        self.stack       = ["Python", "TypeScript", "React", "PyTorch", "Docker"]
+        self.hackathon   = "Antigravity Protocol 2026 ⚡ — Building KerjaCerdas AI Job Matcher"
         self.goal        = "Build impactful, intelligent applications that solve real-world problems"
-        self.currently   = "Exploring LLMs, transformer architectures & full-stack AI systems"
+        self.currently   = "Exploring LLMs, transformer architectures & production ML systems"
 
     def say_hi(self):
         print("Thanks for visiting! Let's build something amazing together 🚀")
@@ -44,18 +46,24 @@ me.say_hi()
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### AI / Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 ### Tools & Platforms
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -127,9 +135,25 @@ me.say_hi()
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linkedin.svg" alt="LinkedIn" width="32" height="32" style="filter: invert(27%) sepia(97%) saturate(700%) hue-rotate(180deg); margin: 0 8px;" />
+</a>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/gmail.svg" alt="Gmail" width="32" height="32" style="filter: invert(27%) sepia(97%) saturate(1000%) hue-rotate(340deg); margin: 0 8px;" />
+</a>
+<a href="https://YOUR_PORTFOLIO_URL">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/vercel.svg" alt="Portfolio" width="32" height="32" style="filter: invert(100%); margin: 0 8px;" />
+</a>
+<a href="https://github.com/LouSens">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/github.svg" alt="GitHub" width="32" height="32" style="filter: invert(100%); margin: 0 8px;" />
+</a>
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LouSens)
 
 </div>
 
