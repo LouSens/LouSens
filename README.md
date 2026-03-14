@@ -135,25 +135,10 @@ me.say_hi()
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linkedin.svg" alt="LinkedIn" width="32" height="32" style="filter: invert(27%) sepia(97%) saturate(700%) hue-rotate(180deg); margin: 0 8px;" />
-</a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/gmail.svg" alt="Gmail" width="32" height="32" style="filter: invert(27%) sepia(97%) saturate(1000%) hue-rotate(340deg); margin: 0 8px;" />
-</a>
-<a href="https://YOUR_PORTFOLIO_URL">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/vercel.svg" alt="Portfolio" width="32" height="32" style="filter: invert(100%); margin: 0 8px;" />
-</a>
-<a href="https://github.com/LouSens">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/github.svg" alt="GitHub" width="32" height="32" style="filter: invert(100%); margin: 0 8px;" />
-</a>
-
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LouSens)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LouSens)
 
 </div>
 
