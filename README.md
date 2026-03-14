@@ -6,7 +6,7 @@
     </td>
     <td>
       <h1>Welcome to My Profile!</h1>
-      <p>I'm David Kurniawan, a developer passionate about automation, AI, and open source. I've included below a section about myself, my skills, and ways to connect.</p>
+      <p>I'm David Kurniawan, a developer passionate about automation, deep learning, and NLP. I've included below a section about myself, my skills, and ways to connect.</p>
     </td>
   </tr>
 </table>
@@ -26,7 +26,7 @@
 <!-- 
   INSTRUCTIONS: Replace the bracketed information with your own details.
 -->
-- 🎓 **Currently Studying:** Artificial Intelligence at Xiamen University Malaysia
+- 🎓 **Education:** BEng in Artificial Intelligence at Xiamen University Malaysia
 - 💡 **Interests:** AI, Machine Learning, Web Development, and creative automation.
 - 🚀 **Goals:** To leverage technology to build impactful and user-friendly applications, and to learn and grow as a developer continuously.
 
