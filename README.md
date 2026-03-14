@@ -27,7 +27,6 @@ class DavidKurniawan:
         self.university  = "Xiamen University Malaysia"
         self.interests   = ["Deep Learning", "NLP", "Automation", "Full-Stack AI"]
         self.stack       = ["Python", "TypeScript", "React", "PyTorch", "Docker"]
-        self.hackathon   = "Antigravity Protocol 2026 ⚡ — Building KerjaCerdas AI Job Matcher"
         self.goal        = "Build impactful, intelligent applications that solve real-world problems"
         self.currently   = "Exploring LLMs, transformer architectures & production ML systems"
 
