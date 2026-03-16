@@ -115,7 +115,7 @@ me.say_hi()
 <table align="center">
   <tr>
     <td align="center" width="200">
-      <img src="https://img.shields.io/badge/🧠-Reinforcement Learning%20%26%20Transformers-7c3aed?style=flat-square" /><br/>
+      <img src="https://img.shields.io/badge/🧠-Reinforcement Learning%20-7c3aed?style=flat-square" /><br/>
       <sub>Implementing RL algorithm in gaming agents using openCV as observation pipeline.</sub>
     </td>
     <td align="center" width="200">
