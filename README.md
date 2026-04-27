@@ -25,7 +25,7 @@ class DavidKurniawan:
         self.name        = "David Kurniawan"
         self.degree      = "BEng Artificial Intelligence"
         self.university  = "Xiamen University Malaysia"
-        self.interests   = ["Deep Learning", "NLP", "Automation", "Full-Stack AI"]
+        self.interests   = ["Deep Learning", "Agentic AI", "Automation", "Full-Stack AI"]
         self.stack       = ["Python", "TypeScript", "React", "PyTorch", "Docker"]
         self.goal        = "Build impactful, intelligent applications that solve real-world problems"
         self.currently   = "Exploring LLMs, transformer architectures & production ML systems"
