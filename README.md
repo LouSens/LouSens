@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=David%20Kurniawan&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Deep%20Learning%20%7C%20NLP&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Passionate+about+Deep+Learning+%F0%9F%A7%A0;NLP+%26+Automation+Enthusiast+%F0%9F%9A%80;BEng+AI+%40+Xiamen+University+Malaysia+%F0%9F%8E%93;Competing+%40+Antigravity+Protocol+2026+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Passionate+about+Deep+Learning+%F0%9F%A7%A0;AI+Agent+%26+Automation+Enthusiast+%F0%9F%9A%80;BEng+AI+%40+Xiamen+University+Malaysia+%F0%9F%8E%93;Shipping+%40+Multi-Agent+LLM+Systems+%E2%9A%A1" alt="Typing SVG" />
 
 <br/>
 
