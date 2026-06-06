@@ -66,14 +66,13 @@ class DavidKurniawan:
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=LouSens&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=c9d1d9"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouSens&layout=compact&langs_count=7&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=c9d1d9"/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=LouSens&theme=github-dark-blue&hide_border=true&background=0d1117&ring=4FC3F7&fire=4FC3F7&currStreakLabel=4FC3F7)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=LouSens&theme=github-dark-blue&hide_border=true&background=0d1117&ring=4FC3F7&fire=4FC3F7&currStreakLabel=4FC3F7)](https://git.io/streak-stats)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LouSens&bg_color=0d1117&color=4FC3F7&line=0e76a8&point=4FC3F7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -83,7 +82,7 @@ class DavidKurniawan:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/davidkurniawan13)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davidkurniawan13)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidk.academic@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://david-kurniawan.vercel.app/)
 
