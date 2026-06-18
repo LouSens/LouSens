@@ -21,7 +21,7 @@ class DavidKurniawan:
     degree    = "BEng Artificial Intelligence @ Xiamen University Malaysia"
     building  = ["RL agents via OpenCV observation", "quant signal pipelines", "multi-agent LLM systems"]
     shipped   = ["KerjaCerdas", "Orion", "Neural Void", "Financial NLP Pipeline", "FaceMask CV"]
-    currently = "Implementing DQN / PPO from scratch · exploring momentum signals for algo trading"
+    currently = "Implementing PPO to explore momentum signals for algo trading"
 ```
 
 ---
