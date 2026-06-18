@@ -6,8 +6,6 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=LouSens&color=0e76a8&style=flat-square&label=Profile+Views)](https://github.com/LouSens)
-[![GitHub stars](https://img.shields.io/github/stars/LouSens?label=Stars&style=flat-square&color=0e76a8)](https://github.com/LouSens)
 
 </div>
 
