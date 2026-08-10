@@ -24,10 +24,8 @@ class DavidKurniawan:
 |---|---|---|
 | **[KerjaCerdas](https://github.com/LouSens/KerjaCerdas)** | Multi-agent recruitment platform · semantic vector matching · ReAct supervisor swarm | `LangGraph` `pgvector` `Gemini` `FastAPI` `Docker` |
 | **[Orion](https://github.com/LouSens/orion)** | 6-agent reimbursement workflow · auto-approve / escalate / reject · 85% test coverage | `LangGraph` `LangSmith` `FastAPI` `React 19` |
-| **[Neural Void](https://github.com/LouSens/neural-void)** | Behavioural risk engine · 25 time-series features · XGBoost ensemble · 96% acc | `XGBoost` `scikit-learn` `Gemini` `FastAPI` `Recharts` |
 | **[Recurrent-PPO-dPickleBall](https://github.com/LouSens/Recurrent-PPO-dPickleBall)** | Autonomous 2D Pickleball control · RecurrentPPO (PPO + LSTM + CNN) · Canonical perspective invariance | `PyTorch` `Stable-Baselines3` `Unity ML-Agents` `OpenCV` |
 | **[Financial NLP Pipeline](https://github.com/LouSens/nlp-corpus)** | 25k-word domain corpus via RSS scraping · tokenization → bigrams → POS lemmatization | `NLTK` `Python` |
-| **[FaceMask CV](https://github.com/LouSens)** | MobileNetV2 fine-tune · real-time webcam inference · improved group baseline | `TensorFlow` `OpenCV` `Keras` |
 
 ---
 
