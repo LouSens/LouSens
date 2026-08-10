@@ -1,11 +1,6 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=180&section=header&text=David%20Kurniawan&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20·%20Production%20AI%20Systems%20·%20Multi-Agent%20Architecture&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=4FC3F7&center=true&vCenter=true&width=680&lines=Multi-agent+LLM+systems+with+deterministic+routing+%E2%9A%A1;Vector+search+pipelines+%7C+Semantic+matching+%7C+RAG+%F0%9F%8E%AF;Time-series+feature+engineering+%7C+XGBoost+ensembles+%F0%9F%93%88;BEng+AI+%40+Xiamen+University+Malaysia+%F0%9F%8E%93" alt="Typing SVG"/>
-
-<br/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=150&section=header&text=David%20Kurniawan&fontSize=48&fontColor=ffffff&fontAlignY=45&animation=fadeIn" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=4FC3F7&center=true&vCenter=true&width=680&height=40&lines=AI+Engineer+%C2%B7+Production+AI+Systems+%C2%B7+Multi-Agent+Architecture;Multi-agent+LLM+systems+with+deterministic+routing+%E2%9A%A1;Vector+search+pipelines+%7C+Semantic+matching+%7C+RAG+%F0%9F%8E%AF;Time-series+feature+engineering+%7C+XGBoost+ensembles+%F0%9F%93%88;BEng+AI+%40+Xiamen+University+Malaysia+%F0%9F%8E%93" alt="Typing SVG"/>
 </div>
 
 ---
