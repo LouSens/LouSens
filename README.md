@@ -52,7 +52,7 @@ class DavidKurniawan:
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=LouSens&theme=github-dark-blue&hide_border=true&background=0d1117&ring=4FC3F7&fire=4FC3F7&currStreakLabel=4FC3F7)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LouSens&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
